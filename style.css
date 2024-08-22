@@ -1,0 +1,23 @@
+#siteName {
+    margin-left: 640px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: lightgray;
+    
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#randomBtn {
+    margin-left: 640px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
