@@ -1,13 +1,17 @@
+body {
+    background-color: snow;
+}
+
 #siteName {
-    margin-left: 640px;
-    
+    padding-left: 530px;
+    padding-right: 530px;
 }
 
 h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    border-color: lightgray;
-    
+    background-color:rgb(165, 163, 162);
+    border-radius: 10px;
 }
 
 p {
